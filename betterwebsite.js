@@ -1,4 +1,4 @@
-/*
+
 setTimeout(function()
 { 
 	if (confirm("Rencontre les tchoins de ta région. Viens voir le site xxxvidsxxx.")) 
@@ -6,7 +6,7 @@ setTimeout(function()
 		window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 	}
 
-	}, 10000); */
+	}, 10000);
 
 
 var button = document.querySelector("button");
