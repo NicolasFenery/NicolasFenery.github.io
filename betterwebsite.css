@@ -16,3 +16,16 @@ h1,h2,h3
 	line-height:1.2
 
 	}
+
+div {
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+}
+
+.swagbutton {
+
+  border: 3px solid purple;
+  padding: 10px;
+  background-color: orange;
+}
